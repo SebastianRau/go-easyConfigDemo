@@ -2,4 +2,4 @@
 # Easy Condif Demo
 hello: "HeLLo {{.name}} and rest of the "
 world: "WORLD!"
-secret: "don't tell {{.topsecret}}!"
+secret: "{{.topsecret}}!"
